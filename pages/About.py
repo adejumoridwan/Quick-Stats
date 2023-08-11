@@ -7,7 +7,7 @@ QuickStats is a web app built using the streamlit framework.It is designed to pr
 With QuickStats, users can easily upload their data, select the appropriate analysis methods, and view the results in an intuitive and interactive format. The app offers a wide range of statistical tools and visualization options, including histograms, scatter plots, and box plots, as well as advanced techniques such as regression analysis and hypothesis testing.
 QuickStats is ideal for users who want to quickly and easily explore their data and gain insights into their data patterns and trends. The app is user-friendly and intuitive, making it accessible to users of all skill levels.\n
 Whether you are a data scientist, a business analyst, or a student, QuickStats is the perfect tool for performing efficient and effective data analysis. Give it a try today and see how it can help you uncover valuable insights from your data.\n
-Source Code is available [here](https://github.com/adejumoridwan/QuickStats.git)
+Source Code is available [here](https://github.com/adejumoridwan/Quick-Stats)
     ''',
     unsafe_allow_html=True
 )
